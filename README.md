@@ -1,2 +1,2 @@
 # ElectricityTheftDetection
-training image in here:https://drive.google.com/drive/folders/1t9HQXyUHs7dt6ZE0kD5cq3pY_1rlws5-?usp=sharing
+training image in here:https://drive.google.com/drive/folders/1Ycb7p_FtOkVRuj1saTp9v52H5RNcsM6B?usp=sharing
